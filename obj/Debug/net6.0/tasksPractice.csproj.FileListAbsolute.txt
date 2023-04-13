@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\tasksPractice\bin\Debug\net6.0\tasksPractice.exe
+C:\Users\jacob\source\repos\tasksPractice\bin\Debug\net6.0\tasksPractice.deps.json
+C:\Users\jacob\source\repos\tasksPractice\bin\Debug\net6.0\tasksPractice.runtimeconfig.json
+C:\Users\jacob\source\repos\tasksPractice\bin\Debug\net6.0\tasksPractice.dll
+C:\Users\jacob\source\repos\tasksPractice\bin\Debug\net6.0\tasksPractice.pdb
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.AssemblyInfo.cs
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.dll
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\refint\tasksPractice.dll
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.pdb
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\tasksPractice.genruntimeconfig.cache
+C:\Users\jacob\source\repos\tasksPractice\obj\Debug\net6.0\ref\tasksPractice.dll
